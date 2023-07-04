@@ -134,7 +134,7 @@ public class BilgiYenileme extends JFrame {
 			    		 lblNewLabel_2.setText("ŞŞifre güncellendi...");
 			    	 }
 			    	 else {
-			    		 lblNewLabel_2.setText("Şifre hatali...");
+			    		 lblNewLabel_2.setText("Sifre hatali...");
 			    	 }
 			     }
 			     else {
